@@ -21,4 +21,4 @@ LimBot -ის აწყობა ნებსიმიერ მსურვე
 https://www.youtube.com/watch?v=vCivoP8thQo
 
 LimBot-ის სამართავი აპლიკაცია შეგიძლიათ გადმოწეროთ შემდეგი მისამართიდან:
-
+https://play.google.com/store/apps/details?id=org.limes.limbot
